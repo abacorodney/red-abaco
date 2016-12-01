@@ -1,0 +1,17 @@
+{
+    "218240181562638336" : {
+        "ADMIN_ROLE" : "<@&218256155191934976>",
+        "MOD_ROLE" : "<@&218254466464481281>"
+    },
+    "EMAIL" : "MjQ3NTY1NjU3MzE3NTcyNjA4.CwrDFw.7bM1vYky00qqE6MLx88rbyNRXVM",
+    "LOGIN_TYPE" : "token",
+    "OWNER" : "120689498299301890",
+    "PASSWORD" : "",
+    "PREFIXES" : [
+        "*"
+    ],
+    "default" : {
+        "ADMIN_ROLE" : "PRINCE - OWNER",
+        "MOD_ROLE" : "DUKE - ADMIN"
+    }
+}
